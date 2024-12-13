@@ -37,7 +37,7 @@ This project is a dynamic dashboard built with React, Redux, and TypeScript. It 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repository-link.git
-   cd dynamic-dashboard
+   cd torus_assignment
    ```
 
 2. Install dependencies:
@@ -52,6 +52,11 @@ This project is a dynamic dashboard built with React, Redux, and TypeScript. It 
 
 4. Open the application:
    - Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
+
+5. **Login Credentials**:
+   - **Email**: `admin@example.com`
+   - **Password**: `password`
+
 
 ## Assumptions
 
