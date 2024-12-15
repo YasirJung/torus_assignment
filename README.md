@@ -36,7 +36,7 @@ This project is a dynamic dashboard built with React, Redux, and TypeScript. It 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-link.git
+   git clone https://github.com/YasirJung/torus_assignment
    cd torus_assignment
    ```
 
